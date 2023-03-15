@@ -11,6 +11,7 @@ package fr.insa.goncalves.silva.devisbat;
 public class DEVISBAT {
 
     public static void main(String[] args) {
+        // coucou
         Coin c1;
         System.out.println(" Identifiant du Coin");
         int id=Lire.i();
