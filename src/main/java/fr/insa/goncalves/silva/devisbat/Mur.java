@@ -4,6 +4,7 @@
  */
 package fr.insa.goncalves.silva.devisbat;
 
+//import java.util.ArrayList;
 /**
  *
  * @author Amadou Coulibaly
@@ -11,6 +12,7 @@ package fr.insa.goncalves.silva.devisbat;
 public class Mur {
     int idMur;
     Coin debut, fin;
+    //ArrayList
     
     
     
