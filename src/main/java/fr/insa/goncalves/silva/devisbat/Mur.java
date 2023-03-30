@@ -4,15 +4,15 @@
  */
 package fr.insa.goncalves.silva.devisbat;
 
-//import java.util.ArrayList;
+import java.util.ArrayList;
 /**
  *
  * @author Amadou Coulibaly
  */
 public class Mur {
-    int idMur;
+    int idMur, nbrePortes,nbreFenetres;
     Coin debut, fin;
-    //ArrayList
+    ArrayList <Revetement> listeRevetements =new ArrayList<>();
     
     
     
